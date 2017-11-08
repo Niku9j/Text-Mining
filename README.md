@@ -1,5 +1,8 @@
 # Text-Mining
 
+The purpose of this project is to scrape the text data and files from a website and use various text mining techniques to study the similarities between the scraped documents.
+
+
 Tasks Completed:
 
 1. Data Fetched from DU website Finance Tab using scrapy and bs4.
@@ -11,9 +14,9 @@ Tasks Completed:
 
 
 
-Group Project By:
+*Group Project By:
 
-*Mohit Yadav (Roll No. 23)
-*NIkunj (Roll No. 26)
+Mohit Yadav (Roll No. 23)
+NIkunj (Roll No. 26)
 Tanishka Agarwal (Roll No. 39)
 Vishal Arora (Roll No. 41)
