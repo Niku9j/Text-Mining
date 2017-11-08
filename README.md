@@ -14,8 +14,8 @@ The purpose of this project is to scrape the text data and files from a website 
 
 
 
-Group Project By:
-Mohit Yadav (Roll No. 23)  
-Nikunj (Roll No. 26)  
-Tanishka Agarwal (Roll No. 39)  
-Vishal Arora (Roll No. 41)  
+Group Project By:  
+Mohit Yadav         (Roll No. 23)  
+Nikunj              (Roll No. 26)  
+Tanishka Agarwal    (Roll No. 39)  
+Vishal Arora        (Roll No. 41)  
