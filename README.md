@@ -1,6 +1,11 @@
 # Text-Mining
 
-The purpose of this project is to scrape the text data and files from a website and use various text mining techniques to study the similarities between the scraped documents for efficient and semantically better results for a user query.(In short a small search engine.)
+The purpose of this project is to scrape the text data and files from a website and use various text mining techniques to study the similarities between the scraped documents for efficient and semantically better results for a user query.(In short - A small search engine.)
+
+
+
+Language used: Python 3.5  
+Libraries used: scrapy,bs4,PyPDF2,nltk,scikit-learn
 
 
 *Tasks Completed:
@@ -12,11 +17,3 @@ The purpose of this project is to scrape the text data and files from a website 
 5. Tf-idf Matrix
 6. Cosine Similarity Matrix
 
-
-
-Group Project By:  
-  
-Mohit Yadav         (Roll No. 23)  
-Nikunj Jain         (Roll No. 26)  
-Tanishka Agarwal    (Roll No. 39)  
-Vishal Arora        (Roll No. 41)  
